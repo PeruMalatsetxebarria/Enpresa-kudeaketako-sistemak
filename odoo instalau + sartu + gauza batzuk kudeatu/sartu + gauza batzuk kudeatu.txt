@@ -1,0 +1,7 @@
+SARTU:
+http://localhost:8069
+
+gmail, erabiltzaili eta pasahitze: peru
+
+DATU BASEAK ETA BESTE INFORMAZIO BATZUK KUDEATU:
+http://localhost:8069/web/database/manager
